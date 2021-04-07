@@ -11,4 +11,4 @@ and answer the questions asked and a txt wordlist will be created in same folder
 
 Enjoy I know its just a basic program but is lot helpfull..
 
-:) BY: iamUPGRADE (One day this name will be known to all)
+:) BY: iamEZMUTH (One day this name will be known to all)
