@@ -66,7 +66,7 @@ class createlists:
     def get_dates(self):
         self.dates = []
         while(1):
-            self.uinp = input("Enter all dates with fromat(ddmmyyyy) possible (include girlfriend's birthdate (if any) and his own) to exit press e and exit\n")
+            self.uinp = input("Enter all dates with fromat(ddmmyyyy) possible (include girlfriend's birthdate (if any) and your own) to exit press e and exit\n")
             if(self.uinp == "e"):
                 break
             else:
@@ -78,7 +78,7 @@ class createlists:
     def get_keywords(self):
         self.keywords = []
         while(1):
-            self.uinp = input("Enter all keywords (like ben10 or pokemon or else types) to exit press e and exit\n")
+            self.uinp = input("Enter all keywords (like BeyBlade or Pokemon or else types) to exit press e and exit\n")
             if(self.uinp == "e"):
                 break
             else:
